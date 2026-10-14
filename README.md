@@ -1,3 +1,4 @@
+[ASCEAS.1943-5525.0001336 (1).pdf](https://github.com/user-attachments/files/33455105/ASCEAS.1943-5525.0001336.1.pdf)
 # Quadcopter Control
 
 ## Objective
@@ -147,3 +148,8 @@ $$\omega^2 = (M^T M)^{-1} M^T \begin{bmatrix} F \\ \tau_x \\ \tau_y \\ \tau_z \e
 
 ![PID vs LQR Comparison Simulation GIF](https://github.com/user-attachments/assets/c4eb2206-003e-41c2-9bb3-c50312202860)
 
+
+### References Used (Research Papers)
+[ASCEAS.1943-5525.0001336 (1).pdf](https://github.com/user-attachments/files/33455191/ASCEAS.1943-5525.0001336.1.pdf)
+
+[Control Strategies for 6-DOF Quadcopter UAVs_ Cascade PID Stabili (1).pdf](https://github.com/user-attachments/files/33455142/Control.Strategies.for.6-DOF.Quadcopter.UAVs_.Cascade.PID.Stabili.1.pdf)
