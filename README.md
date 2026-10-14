@@ -145,4 +145,5 @@ $$\omega^2 = (M^T M)^{-1} M^T \begin{bmatrix} F \\ \tau_x \\ \tau_y \\ \tau_z \e
 ### Comparative Results
 ![PID vs LQR Comparison Plot](https://github.com/user-attachments/assets/bec375a1-7059-426b-940f-58704f4eb4db)
 
-![PID vs LQR Comparison Simulation GIF](https://github.com/user-attachments/assets/17478e32-6353-4b31-9c82-c60da27884d1)
+![PID vs LQR Comparison Simulation GIF](https://github.com/user-attachments/assets/c4eb2206-003e-41c2-9bb3-c50312202860)
+
