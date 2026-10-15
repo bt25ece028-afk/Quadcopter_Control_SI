@@ -1,4 +1,3 @@
-[ASCEAS.1943-5525.0001336 (1).pdf](https://github.com/user-attachments/files/33455105/ASCEAS.1943-5525.0001336.1.pdf)
 # Quadcopter Control
 
 ## Objective
