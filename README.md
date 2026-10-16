@@ -19,10 +19,9 @@ $$\dot{x} = f(x, \omega)$$
 > 
 > ![Quadcopter Parameters & Formulas](https://github.com/user-attachments/assets/fa451b71-5820-4c53-9a2f-14a48a7801f3)
 > 
-> *Figure 1: Physical parameters (mass, moments of inertia, arm lengths, thrust/drag coefficients) and equations of motion used in the plant model.*
+> *Figure 1: Physical parameters (mass, moments of inertia, arm lengths, thrust/drag coefficients).*
 
-### Simulation Demos
-![Plant Simulation GIF](path/to/plant_simulation.gif)
+
 
 ---
 
@@ -51,19 +50,19 @@ $$u(t) = K_p e(t) + K_i \int_{0}^{t} e(t') \, dt' + K_d \frac{de(t)}{dt}$$
 | Simulation Plots | Dynamic Trajectory GIFs |
 | :---: | :---: |
 | ![PID 1D Plot 1](https://github.com/user-attachments/assets/9f15d806-896b-4bd7-abd2-804beffcb7d2) | ![PID 1D Simulation GIF 1](https://github.com/user-attachments/assets/9bc6fca9-df8b-4d5f-b419-59679a1614fc) |
-| ![PID 1D Plot 2](path/to/pid_1d_plot2.png) | ![PID 1D Simulation GIF 2](path/to/pid_1d_simulation2.gif) |
+
 
 ##### 2D Quadcopter Control
 | Simulation Plots | Dynamic Trajectory GIFs |
 | :---: | :---: |
 | ![PID 2D Plot 1](https://github.com/user-attachments/assets/b28e7e59-caa0-40b0-ae9c-31e6c61c8339) | ![PID 2D Simulation GIF 1](https://github.com/user-attachments/assets/e9070307-4caa-4983-9f56-768a16462769) |
-| ![PID 2D Plot 2](path/to/pid_2d_plot2.png) | ![PID 2D Simulation GIF 2](-----) |
+
 
 ##### 3D Quadcopter Control
 | Simulation Plots | Dynamic Trajectory GIFs |
 | :---: | :---: |
 | ![PID 3D Plot 1](https://github.com/user-attachments/assets/edbbfbf2-7a49-42d0-92a5-91efc3996927) | ![PID 3D Simulation GIF 1](https://github.com/user-attachments/assets/2a4c2ebc-d9d2-4c73-b93b-7ce0d322572e) |
-| ![PID 3D Plot 2](path/to/pid_3d_plot2.png) | ![PID 3D Simulation GIF 2](path/to/pid_3d_simulation2.gif) |
+
 
 ---
 
@@ -98,23 +97,12 @@ $$A^T P + P A - P B R^{-1} B^T P + Q = 0$$
 
 #### Results & Visualizations
 
-##### 1D Quadcopter Control
-| Simulation Plots | Dynamic Trajectory GIFs |
-| :---: | :---: |
-| ![LQR 1D Plot 1](-----) | ![LQR 1D Simulation GIF 1](----) |
-| ![LQR 1D Plot 2](path/to/lqr_1d_plot2.png) | ![LQR 1D Simulation GIF 2](path/to/lqr_1d_simulation2.gif) |
-
-##### 2D Quadcopter Control
-| Simulation Plots | Dynamic Trajectory GIFs |
-| :---: | :---: |
-| ![LQR 2D Plot 1](----) | ![LQR 2D Simulation GIF 1]() |
-| ![LQR 2D Plot 2](path/to/lqr_2d_plot2.png) | ![LQR 2D Simulation GIF 2](path/to/lqr_2d_simulation2.gif) |
-
 ##### 3D Quadcopter Control
-| Simulation Plots | Dynamic Trajectory GIFs |
+| Dynamic Trajectory GIFs |
 | :---: | :---: |
-| ![LQR 3D Plot 1](path/to/lqr_3d_plot1.png) | ![LQR 3D Simulation GIF 1](https://github.com/user-attachments/assets/17478e32-6353-4b31-9c82-c60da27884d1) |
-| ![LQR 3D Plot 2](path/to/lqr_3d_plot2.png) | ![LQR 3D Simulation GIF 2](path/to/lqr_3d_simulation2.gif) |
+| ![LQR 3D Simulation GIF 1](https://github.com/user-attachments/assets/17478e32-6353-4b31-9c82-c60da27884d1) |
+
+
 
 ---
 
